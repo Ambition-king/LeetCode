@@ -17,6 +17,6 @@ package LeetCode001_两数之和;
  */
 public class TwoSum {
     public static void main(String[] args) {
-
+        //给定一个数组
     }
 }
