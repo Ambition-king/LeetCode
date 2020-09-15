@@ -17,6 +17,6 @@ package LeetCode001_两数之和;
  */
 public class TwoSum {
     public static void main(String[] args) {
-        //给定一个数组
+        //给定一个数组 再给定一个数 查看数组中的两个元素之和能否等于这个数 等于返回这两个元素的下标
     }
 }
