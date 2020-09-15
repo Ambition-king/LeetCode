@@ -1,0 +1,9 @@
+git init 
+
+git add src 
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/Ambition-king/LeetCode.git
+
+git push -u origin master
