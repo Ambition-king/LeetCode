@@ -7,3 +7,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/Ambition-king/LeetCode.git
 
 git push -u origin master
+
+
+//小金热爱写代码，热爱交朋友
